@@ -1,4 +1,4 @@
-# rc.imitation
+# imitation
 
 <!-- badges: start -->
 [![Project Status: WIP – Initial development is in progress, but there
@@ -8,4 +8,4 @@ public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostat
 MIT](https://img.shields.io/badge/license-MIT-green)](https://choosealicense.com/licenses/mit/)
 <!-- badges: end -->
 
-🪑 Research compendium of the agent-based imitative model in bars and restaurants project
+🪑 Agent-based model about the crowding phenomenon in bars and restaurants.
