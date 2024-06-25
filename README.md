@@ -6,4 +6,8 @@
 MIT](https://img.shields.io/badge/license-MIT-green)](https://choosealicense.com/licenses/mit/)
 <!-- badges: end -->
 
-🪑 Agent-based model about the crowding phenomenon in bars and restaurants.
+🙋‍♂️🙋‍♀️🪑🤵🍽️🛎️🥗🍝🍔🍟🍕🌮🍜🍷🍸🍹☕
+
+This repository contains the files for a agent-based model about the crowding phenomenon in bars and restaurants.
+
+The code is released under the MIT license. 
